@@ -1,6 +1,6 @@
 # Jaime Abril
 
-Front end engineer in Palma, Spain, moving into AI agent deployment. TypeScript and Python.
+Front end engineer based in Palma and Valencia, Spain, moving into AI agent deployment. TypeScript and Python.
 
 I build agents that do real work, and I care about the unglamorous parts: tool design, validation, human approval, and what happens when the model fails. I have worked exclusively with coding agents for over a year, so I ship fast and verify carefully.
 
