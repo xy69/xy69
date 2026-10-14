@@ -1,6 +1,6 @@
-# Jaime Abril
+﻿# Jaime Abril
 
-Palma, Spain · Front end engineer building production AI agents · TypeScript, Python
+Palma, Spain Â· Front end engineer building production AI agents Â· TypeScript, Python
 
 I build agents that do real work, and I care most about the unglamorous part: tool design, validation, human approval, graceful failure, and making sure the thing is still useful at 2 a.m. when a model misbehaves.
 
@@ -20,8 +20,9 @@ Right now I'm moving into **forward deployed engineering**: taking agentic syste
 | Project | What it is |
 |---|---|
 | [`tiny-agent`](https://github.com/xy69/tiny-agent) | A tiny, extensible AI agent in TypeScript. The core is only the loop and the types; everything else is an extension (tools, loop detection, compaction, sub-agent delegation). Works with any OpenAI-compatible API or Anthropic. MIT. |
+| [`tiny-agent-py`](https://github.com/xy69/tiny-agent-py) | The same idea in Python: async streaming loop, tools defined from pydantic models (one definition for schema and validation), extension hooks, and an OpenAI-compatible provider that works with OpenRouter, Ollama and llama.cpp. Typed and tested, no network needed for tests. MIT. |
 
-More coming: a Python port, evals tooling, and write-ups of what I learn deploying agents.
+More coming: an agent with an MCP server and approval UI, evals tooling, and write-ups of what I learn deploying agents.
 
 ## Private work (available to discuss)
 
