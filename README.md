@@ -28,6 +28,6 @@ TypeScript (browser, Node.js, Bun), Python, React, SQLite, OpenRouter, Ollama an
 
 ## Currently
 
-Building an MCP-backed agent with approval UI, then evals for agent behavior.
+Building an MCP-backed financial-crime alert triage agent with audit trail and approval UI, then evals for agent behavior.
 
 Open to forward deployed engineering and agent deployment roles. [LinkedIn](https://www.linkedin.com/in/jaime-abril/)
